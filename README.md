@@ -1,2 +1,2 @@
 # LeetCode
-Practice basic algorithm (JAVA)
+Practice basic algorithms (JAVA)
